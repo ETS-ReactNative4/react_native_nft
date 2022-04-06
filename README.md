@@ -1,10 +1,9 @@
 # React-Native NFT App
-
+<p align="center">
+<img src="https://github.com/thisismemukul/react_native_nft/blob/main/assets/mock.png" alt="React-Native NFT App" title="React-Native NFT App show gif" width="500"/>
+</p>
 This project is made in react-native with custume API.
 
-<p align="center">
-<img src="https://github.com/thisismemukul/react_native_nft/blob/main/assets/demo.gif" alt="React-Native NFT App" title="React-Native NFT App show gif" width="500"/>
-</p>
 <h4>* Tech Stack used:</h4>
 <ul>
 <li>React-Native</li>
@@ -12,6 +11,9 @@ This project is made in react-native with custume API.
 
 <h3> APP Link 🔗: https://expo.dev/@thisismemukul/react_native_nft?serviceType=classic&distribution=expo-go</h3>
 
+<p align="center">
+<img src="https://github.com/thisismemukul/react_native_nft/blob/main/assets/demo.gif" alt="React-Native NFT App" title="React-Native NFT App show gif" width="500"/>
+</p>
 
 - [Installation Guide](#installation-guide) - How to get started with NFT App
 
